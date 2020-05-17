@@ -2,3 +2,5 @@ Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flat
 Icons made by [itim2101](https://www.flaticon.com/authors/itim2101) from [www.flaticon.com](https://www.flaticon.com/) 
 
 Sounds made by [www.freesfx.co.uk](https://freesfx.co.uk)
+
+Icons and sounds are used in this playground to build the UI.
