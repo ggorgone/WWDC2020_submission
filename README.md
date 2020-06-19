@@ -1,4 +1,4 @@
-# Apple WWDC2020 Submission: a playground on security
+# WWDC2020 Submission: a playground on security
 ## Description
 
 The topics of the playground are privacy and security when exchanging messages. I did it to explain in an easy and maybe a bit playful manner some of the differences between **symmetric** and **asymmetric cryptography** applied to that context.
