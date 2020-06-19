@@ -42,12 +42,13 @@ var girlfriendMessage = chestAndPadlock.readSecretMessage()
 
 ### 3 - Symmetric key
 These are the padlock and the key I sent her. As you can see running the code, clicking on the key will **open and close** the padlock.
- We have one key that does two things. This is why  keys like this are called **"symmetric"** : because the actions they can perform are the opposite of each other.
+We have one key that does two things. This is why  keys like this are called **"symmetric"** : because the actions they can perform are the opposite of each other.
  
- As long as the key is safe, there will be no problems.
- But I have to send the key to my girlfriend to have her close the padlock and secure the chest.
+As long as the key is safe, there will be no problems.
+But I have to send the key to my girlfriend to have her close the padlock and secure the chest.
  
- What will happen if someone is in the medium we are using to comunicate?
+What will happen if someone is in the medium we are using to comunicate?
+<img src="/assets_for_readme/simmetri_key.gif" width="250" height="auto"/>
 
 ### 4 - Unsafe medium
 Oh no! Our comunication medium is not safe anymore!
