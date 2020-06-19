@@ -123,7 +123,7 @@ chestAndPadlock.tryToOpen(key: keyThatOpens)
 let girlfriendMessage = chestAndPadlock.readSecretMessage()
 ```
 
-<img src="/assets_for_readme/unsafe_medium.gif" width="250" height="auto"/>
+<img src="/assets_for_readme/back_to_safety.gif" width="250" height="auto"/>
 
 ## How to run it
 
