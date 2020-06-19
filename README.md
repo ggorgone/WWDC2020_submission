@@ -48,6 +48,7 @@ As long as the key is safe, there will be no problems.
 But I have to send the key to my girlfriend to have her close the padlock and secure the chest.
  
 What will happen if someone is in the medium we are using to comunicate?
+
 <img src="/assets_for_readme/symmetric_key.gif" width="250" height="auto"/>
 
 ### 4 - Unsafe medium
@@ -77,6 +78,7 @@ chestAndPadlock.tryToOpen(key: key)
 // The hacker overwrite the message my girlfriend wrote
 var girlfriendMessage = chestAndPadlock.readSecretMessage()
 ```
+<img src="/assets_for_readme/unsafe_medium.gif" width="250" height="auto"/>
 
 ### 5 - Asymmetric keys
 Remember what we said before? We had one key that did two things. It could open and close the padlock. That's the weak point!
