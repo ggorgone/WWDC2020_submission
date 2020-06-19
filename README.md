@@ -21,10 +21,6 @@ She writes the love message, put it into the chest, closes the padlock with the 
 I open the padlock with the key, get the love message from the chest, read it and I'm happy 😍
 Do you spot some weak points in that this way of comunicating ?
 Let's take a closer look at the padlock and the key.
-
-<div>
-    <div>
-
 ```swift
 // Create a chest with a padlock
 let chestAndPadlock = ChestAndPadlock()
@@ -42,12 +38,7 @@ chestAndPadlock.tryToOpen(key: key)
 // Read the love message my girlfriend wrote
 var girlfriendMessage = chestAndPadlock.readSecretMessage()
 ```
-</div>
-<div>
-
 <img src="/assets_for_readme/safe_medium.gif" width="250" height="auto"/>
-</div>
-</div>
 
 ### 3 - Symmetric key
 These are the padlock and the key I sent her. As you can see running the code, clicking on the key will **open and close** the padlock.
