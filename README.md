@@ -39,7 +39,8 @@ chestAndPadlock.tryToOpen(key: key)
 // Read the love message my girlfriend wrote
 var girlfriendMessage = chestAndPadlock.readSecretMessage()
 ```
-![safe_medium](/assets_for_readme/safe_medium.gif "title" | width=100)
+
+<img src="/assets_for_readme/safe_medium.gif" width="250" height="250"/>
 
 ### 3 - Symmetric key
 These are the padlock and the key I sent her. As you can see running the code, clicking on the key will **open and close** the padlock.
