@@ -95,6 +95,7 @@ This type of keys are called **asymmetric** because each key can perform only on
 The keys that are made like the red one are also called **public keys** because you have to share them in order to make the comunication happen.
  
 The keys that are made like the blue one are also called **private keys** because you have to keep them private and safe to be sure nobody will read messages intended for you.
+
 <img src="/assets_for_readme/asymmetric_keys.gif" width="250" height="auto"/>
 
 ### 6 - Back to safety
@@ -121,6 +122,8 @@ chestAndPadlock.tryToOpen(key: keyThatOpens)
 // Read the love message my girlfriend wrote
 let girlfriendMessage = chestAndPadlock.readSecretMessage()
 ```
+
+<img src="/assets_for_readme/unsafe_medium.gif" width="250" height="auto"/>
 
 ## How to run it
 
