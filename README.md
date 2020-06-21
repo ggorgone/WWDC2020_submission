@@ -1,4 +1,6 @@
 # WWDC2020 Submission: a playground on security
+<img src="/assets_for_readme/status_badge.png" width="250" height="auto"/>
+
 ## Description
 
 The topics of the playground are privacy and security when exchanging messages. I did it to explain in an easy and maybe a bit playful manner some of the differences between **symmetric** and **asymmetric cryptography** applied to that context.
