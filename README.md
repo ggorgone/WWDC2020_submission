@@ -1,5 +1,5 @@
 # WWDC2020 Submission: a playground on security
-<img src="https://img.shields.io/badge/WWDC20%20Status-Awarded-brightgreen" width="250" height="auto"/>
+<img src="/assets_for_readme/status_badge.svg" width="250" height="auto"/>
 
 ## Description
 
