@@ -1,4 +1,4 @@
-# WWDC2020 Submission: a playground on security
+# WWDC20 Submission: a playground on security
 <img src="/assets_for_readme/status_badge.svg" width="250" height="auto"/>
 
 ## Description
